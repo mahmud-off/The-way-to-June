@@ -1,0 +1,1 @@
+# My way to Junior developer.
