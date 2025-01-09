@@ -1,0 +1,3 @@
+[submodule "The_GIT_Guide"]
+	path = The_GIT_Guide
+	url = https://github.com/mahmud-off/The_GIT_Guide
