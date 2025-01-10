@@ -4,6 +4,4 @@
 [submodule "DB/SQL_Guide"]
 	path = DB/SQL_Guide
 	url = https://github.com/mahmud-off/SQL_Guide
-[submodule "DSA"]
-	path = DSA
-	url = https://github.com/mahmud-off/DSA
+
