@@ -8,3 +8,6 @@
 [submodule "DSA"]
 	path = DSA
 	url = https://github.com/mahmud-off/DSA
+[submodule "ЯП/C_C++/C_language"]
+	path = ЯП/C_C++/C_language
+	url = https://github.com/mahmud-off/C_language
